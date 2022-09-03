@@ -1,0 +1,21 @@
+{
+    "Windows": [
+        "System",
+        "System Idle Process",
+        "Registry",
+        "Memory Compression",
+        "MemCompression",
+        "smss.exe",
+        "csrss.exe",
+        "lsass.exe",
+        "wininit.exe",
+        "winlogon.exe",
+        "services.exe",
+        "svchost.exe",
+        "sppsvc.exe",
+        "NisSrv.exe",
+        "dasHost.exe",
+        "sihost.exe",
+        "dwm.exe"
+    ]
+}
